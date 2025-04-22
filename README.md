@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahmoud Dahab
 
 🚀 **Full-Stack Web & Mobile App Developer**  
-Skilled in building fast, scalable, and cross-platform applications using **Expo React Native**, **Express.js**, and **Next.js**—delivering everything from backend APIs to polished UIs.
+Full-Stack Web & Mobile App Developer with experience building fast, cross-platform applications using Expo React Native, Express.js, and Next.js—delivering robust backend APIs and fully polished UIs. Focused on creating seamless user experiences and scalable systems with clean, modular code that follows best practices. 
 
 ---
 
